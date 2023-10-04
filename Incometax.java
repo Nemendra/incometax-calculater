@@ -20,6 +20,8 @@ public class incometax{
         System.out.println("Tax ="+ tax);
     }
 }
+
+// this is an income tax calculater in java code
  
     
 
